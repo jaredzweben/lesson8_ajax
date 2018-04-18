@@ -13,8 +13,8 @@ Jared Zweben
 This assignment used JSON and AJAX to teach us how to integrate information from databases into our code.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+
+https://jaredzweben.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
 1. In this lesson, I learned how to pull from a database and insert the information into my program.
